@@ -26,8 +26,8 @@ payment
 
 
 ## Note
-It is just a sample if you're running code no need to enter original details
-it's first code implementation 
+It is just a sample if you're running code no need to enter original details\
+it's my first code implementation 
 ## 🚀 About Me
 I'm a learner and coding enthusiast
 
