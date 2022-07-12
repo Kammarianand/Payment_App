@@ -1,7 +1,7 @@
 
 # Payment_App Prototype
 
-The code is about creating a general payment app like it is Prototype because it has general structure of a payment
+The code is about creating a general payment app like it is Prototype because it has general structure of a payment App
 
 
 ## About code and it implemented concepts
