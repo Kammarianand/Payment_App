@@ -4,7 +4,7 @@
 The code is about creating a general payment app like it is Prototype because it has general structure of a payment App
 
 
-## About code and it implemented concepts
+## About code and it's implemented concepts
 
 - class and objects
 - methods calling
