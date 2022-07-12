@@ -13,7 +13,7 @@ The code is about creating a general payment app like it is Prototype because it
 
 
 ## Run on Replit
-https://replit.com/@kammarianand/PaymentApp
+https://replit.com/@kammarianand/PaymentApp#Main.cpp
 
 
 
