@@ -8,7 +8,7 @@ The code is about creating a general payment app like it is Prototype because it
 
 ## About code and it's implemented concepts
 
-![Replit](https://img.shields.io/badge/OOP'concepts-DD1200?style=for-the-badge&logo=c++&logoColor=black)<br>
+![Replit](https://img.shields.io/badge/OOP'sconcepts-DD1200?style=for-the-badge&logo=c++&logoColor=black)<br>
 - class and objects
 - methods calling
 - Abstraction
