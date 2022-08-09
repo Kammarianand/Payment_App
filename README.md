@@ -36,4 +36,6 @@ it's my first code implementation
 I'm a learner and coding enthusiast
 
 
-https://replit.com/@kammarianand
+[![linkedin](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=orange&theme=cobalt)](https://www.linkedin.com/in/kammari-anand-504512230/)
+
+[![replit](https://img.shields.io/badge/replit-1DA1F2?style=for-the-badge&logo=replit&logoColor=orange&theme=cobalt)](https://replit.com/@kammarianand)
